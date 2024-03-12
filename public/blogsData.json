@@ -1,0 +1,42 @@
+[
+    {
+    "cover_img": "https://i.postimg.cc/c4g2XdY8/one.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.postimg.cc/Pr0xRf7G/boy1.png",
+    "title": "Top 5 Tips for Learning a New Language",
+    "id": "1",
+    "hashtag": "#languagelearning #tips",
+    "post_date": "2024-03-12",
+    "reading_time": 5 
+    },
+    {
+    "cover_img": "https://i.postimg.cc/dtFvk7gV/2.png",
+    "author": "Jane Smith",
+    "author_img": "https://i.postimg.cc/15vTmfQT/boy2.jpg",
+    "title": "The Best Places to Visit in Dhaka",
+    "id": "2",
+    "hashtag": "#dhaka #travel",
+    "post_date": "2024-03-11",
+    "reading_time": 7 
+    },
+    {
+    "cover_img": "https://i.postimg.cc/mg0mk96d/3.png",
+    "author": "David Lee",
+    "author_img": "https://i.postimg.cc/g0VH0ThJ/profile.png",
+    "title": "Essential Spices for Bangladeshi Cuisine",
+    "id": "3",
+    "hashtag": "#bangladeshifood #cooking",
+    "post_date": "2024-03-10",
+    "reading_time": 3 
+    },
+    {
+    "cover_img": "https://i.postimg.cc/zf8RxXLz/4.jpg",
+    "author": "Sarah Jones",
+    "author_img": "https://i.postimg.cc/bJdr5Gqh/girl2.jpg",
+    "title": "History of the Bengali Language",
+    "id": "4",
+    "hashtag": "#bengali #language",
+    "post_date": "2024-03-09",
+    "reading_time": 10 
+    }
+    ]
