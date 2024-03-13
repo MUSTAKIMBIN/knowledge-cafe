@@ -3,9 +3,9 @@
     "cover_img": "https://i.postimg.cc/c4g2XdY8/one.jpg",
     "author": "John Doe",
     "author_img": "https://i.postimg.cc/Pr0xRf7G/boy1.png",
-    "title": "Top 5 Tips for Learning a New Language",
+    "title": "Best ES6 Features",
     "id": "1",
-    "hashtag": "#languagelearning #tips",
+    "hashtag": ["#es6learning"," #tips"],
     "post_date": "2024-03-12",
     "reading_time": 5 
     },
@@ -13,9 +13,9 @@
     "cover_img": "https://i.postimg.cc/dtFvk7gV/2.png",
     "author": "Jane Smith",
     "author_img": "https://i.postimg.cc/15vTmfQT/boy2.jpg",
-    "title": "The Best Places to Visit in Dhaka",
+    "title": "Best Way To Write Code",
     "id": "2",
-    "hashtag": "#dhaka #travel",
+    "hashtag": ["#code","#learning"],
     "post_date": "2024-03-11",
     "reading_time": 7 
     },
@@ -23,9 +23,9 @@
     "cover_img": "https://i.postimg.cc/mg0mk96d/3.png",
     "author": "David Lee",
     "author_img": "https://i.postimg.cc/g0VH0ThJ/profile.png",
-    "title": "Essential Spices for Bangladeshi Cuisine",
+    "title": "Start Your React Journy",
     "id": "3",
-    "hashtag": "#bangladeshifood #cooking",
+    "hashtag": ["#react"," #code"],
     "post_date": "2024-03-10",
     "reading_time": 3 
     },
@@ -33,9 +33,9 @@
     "cover_img": "https://i.postimg.cc/zf8RxXLz/4.jpg",
     "author": "Sarah Jones",
     "author_img": "https://i.postimg.cc/bJdr5Gqh/girl2.jpg",
-    "title": "History of the Bengali Language",
+    "title": "Free Resources For Learning",
     "id": "4",
-    "hashtag": "#bengali #language",
+    "hashtag": ["#resources" ," #learning"],
     "post_date": "2024-03-09",
     "reading_time": 10 
     }
